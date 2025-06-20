@@ -1,0 +1,25 @@
+{
+  "name": "html-validate-vitest-demo",
+  "version": "1.0.0",
+  "description": "Demo of using html-validate with vitest",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihkeleidast/html-validate-vitest-demo.git"
+  },
+  "author": "Mihkel Eidast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihkeleidast/html-validate-vitest-demo/issues"
+  },
+  "homepage": "https://github.com/mihkeleidast/html-validate-vitest-demo#readme",
+  "devDependencies": {
+    "html-validate": "^9.7.0",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  }
+}
